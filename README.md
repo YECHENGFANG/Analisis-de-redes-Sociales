@@ -1,4 +1,4 @@
-# Requisitos para la Ejecución de los Ejercicios
+# Librerias para la Ejecución de los Ejercicios
 
 ## Ejercicio A
 
